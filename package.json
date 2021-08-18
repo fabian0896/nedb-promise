@@ -14,7 +14,7 @@
   "author": "Jonathan Apodaca",
   "license": "ISC",
   "dependencies": {
-    "nedb": "^1.8.0",
+    "nedb": "github:fabian0896/nedb",
     "thenify": "^3.2.0"
   },
   "devDependencies": {
